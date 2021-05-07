@@ -47,7 +47,7 @@
     
     $_SESSION["username"] = $username;
     $_SESSION["as"] = $as;
-    $_SESSION["success"] = "you have success fully registered as" + $as;
+    $_SESSION["success"] = "you have success fully registered as" . $as;
     
     header("location : index.php");
     
