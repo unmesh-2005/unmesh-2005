@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abdullah-al Muntakim Rahman
 - 👀 I’m interested in Physics
-- 🌱 I’m currently learning Node
+- 🌱 I’m currently learning Cloud Architecture
 - 📫 How to reach me unmesh2005@gmail.com
 
 <!---
